@@ -1,0 +1,19 @@
+{
+  "name": "software-engineering-site",
+  "version": "0.0.1",
+  "description": "Documentation of Software Engineering",
+  "main": "index.js",
+  "authors": {
+    "name": "Nicholas Quezada",
+    "email": "nicholas.quezada@outlook.com"
+  },
+  "repository": "git@github.com:nicholasq/software-engineering-site.git/software-engineering-site",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
